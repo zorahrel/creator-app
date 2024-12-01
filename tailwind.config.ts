@@ -13,6 +13,12 @@ export default {
         md: 'calc(var(--radius) - 2px)',
         sm: 'calc(var(--radius) - 4px)'
       },
+      spacing: {
+        '16': '4rem',
+        '16.5': '4.125rem',
+        '17': '4.25rem',
+        '18': '4.5rem',
+      },
       colors: {
         background: 'hsl(var(--background))',
         foreground: 'hsl(var(--foreground))',
